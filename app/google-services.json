@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "667225053569",
+    "project_id": "amukisense---app",
+    "storage_bucket": "amukisense---app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:667225053569:android:5323dfa75b00d3941df080",
+        "android_client_info": {
+          "package_name": "com.example.amukisenseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "667225053569-c4ejh3e6a41lq0ept8l62phk4jrh654j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.amukisenseapp",
+            "certificate_hash": "98de3704b2e26f7a0bc142800d2dfa4e55329edb"
+          }
+        },
+        {
+          "client_id": "667225053569-104qlrj4u8aotp5lne5beukfaeq406or.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAk9Q0lIv__JtCEPqqqBoMYqHbGYM0CjF0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "667225053569-104qlrj4u8aotp5lne5beukfaeq406or.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
